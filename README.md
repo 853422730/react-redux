@@ -1,2 +1,12 @@
-# react-redux
-a react redux and saga demo
+
+### 1. Install dependencies
+
+```sh
+$ npm install
+```
+
+### 2. Run the app
+
+```sh
+$ npm run dev
+```
